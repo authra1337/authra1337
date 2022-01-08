@@ -5,7 +5,7 @@
 
 * 💬 Ask me about C++
 * 📫 How to reach me: authra#0007
-* ⚡ Fun fact: python is bad
+* ⚡ Fun fact: python syntax is bad
 
 <p align="center">
 <a href="https://github.com/noobwarre" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=noobwarre&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
