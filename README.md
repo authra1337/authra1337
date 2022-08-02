@@ -4,7 +4,6 @@
                             )](https://discord.com/users/795815996052865035)
 
 * 💬 Ask me about C++
-* 📫 How to reach me: authra#0007
 * ⚡ Fun fact: python syntax is bad
 
 <p align="center">
